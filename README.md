@@ -1,6 +1,6 @@
 # Selenium_Proof Of Concepts
 
-## Selenium WebDriver:
+## Selenium WebDriver:##
 - It covers the installation, configuration, usage and commands of Selenium WebDriver for various browsers.
 
 ## Locators and WebElements:
@@ -19,3 +19,5 @@
 - the integration of TestNG framework with Selenium WebDriver
 - how to create test cases, test suites, annotations, reports, etc.
 - taking failed Test case screenshots using Selenium WebDriver.
+
+## Page Object Model (POM)
