@@ -7,10 +7,13 @@
 - different types of locators and web elements
 - how to locate and interact with them using WebDriver methods.
 - Handle Web Table in Selenium WebDriver
+- WebElement methods to locate dynamic elements in webpage.
 
 ## PopUp Handling
 - Handling pop-ups,
 - Alerts, frames,windows popup handling
+- Calendar popup handling
+- Notification popup handling
   
 ## TestNG: 
 - the integration of TestNG framework with Selenium WebDriver
