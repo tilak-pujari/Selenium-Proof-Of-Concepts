@@ -2,12 +2,14 @@
 
 ## Selenium WebDriver:
 - It covers the installation, configuration, usage and commands of Selenium WebDriver for various browsers.
+- Selenium Components
 
 ## Locators and WebElements:
 - types of locators and web elements
 - how to locate and interact with them using WebDriver methods.
 - Handle Web Table in Selenium WebDriver
 - WebElement methods to locate dynamic elements in webpage.
+- Handling Mouse and Keyboard movements
 
 ## PopUp Handling
 - Handling pop-ups,
