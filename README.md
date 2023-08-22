@@ -9,6 +9,7 @@
 - Handle Web Table in Selenium WebDriver
 - WebElement methods to locate dynamic elements in webpage.
 
+
 ## PopUp Handling
 - Handling pop-ups,
 - Alerts, frames,windows popup handling
