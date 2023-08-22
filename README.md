@@ -26,3 +26,9 @@
 - Creating page object repository to store webelements
 - Used PageFactory class to initialize webelements and driver
 - Used Java OOPs Encapsulation concept to hide webelements from direct accessbility
+
+## Frameworks
+- Moduler Framework
+- Data Driven Framework
+- Paramitarization
+- Hybrid Framework
